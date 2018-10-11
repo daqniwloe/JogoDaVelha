@@ -116,7 +116,7 @@ class Main2Activity : AppCompatActivity() {
             sound()
             limpar(textView)
         } else if (jogadorUm.size + jogadorDois.size == 9){
-            Toast.makeText(this, "Deu Velha!", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "Deu Velha!!", Toast.LENGTH_LONG).show()
             limpar(textView)
 
         }

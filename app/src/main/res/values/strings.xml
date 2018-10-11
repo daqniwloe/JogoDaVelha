@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JogoDaVelha</string>
+    <string name="textViewJogador1">Jogador 1</string>
+    <string name="nomeJogador1">Nome</string>
+    <string name="textViewJogador2">Jogador 2</string>
+    <string name="nomeJogador2">Nome</string>
+    <string name="buttonJogar">JOGAR</string>
+</resources>
